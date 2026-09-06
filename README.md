@@ -1,4 +1,4 @@
-# Lab 1: Revisiting C++, Introduction to Version Control & Writing Test Cases in C++
+# Lab 1: Revisiting C++, Introduction to Version Control & Writing Test Cases in C++ // altering the ReadMe.md 
 
 ## Introduction
 
