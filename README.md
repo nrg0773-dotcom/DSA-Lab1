@@ -1,57 +1,41 @@
-# Lab 1: Revisiting C++, Introduction to Version Control & Writing Test Cases in C++ // altering the ReadMe.md 
+# DSA Lab
 
 ## Introduction
 
-This lab is about revising C++ programming concepts through moderately challenging problems that serve as a foundation for Data Structures and Algorithms (DSA).
-
-Students will also practice using GitHub and version control to manage their code.
-
-In C++, arrays, strings, and matrices are fundamental structures upon which advanced data structures are built. Students will implement modular functions in C++ and verify their correctness through systematic test cases.
+This lab focuses on implementing and practicing fundamental Data Structures and Algorithms concepts using C++.
 
 ## Objectives
 
-Students will:
-
-- Practice basic Git commands and use GitHub for version control.
-- Revise and strengthen programming concepts learned in earlier courses.
-- Practice modular programming by writing reusable C++ functions.
-- Write systematic software tests for each implemented function.
-- Prepare for advanced data structures by solving moderately difficult problems.
+- Practice basic data structures and algorithms.
+- Improve problem-solving skills.
+- Implement algorithms using C++.
+- Understand the working and efficiency of different approaches.
+- Practice writing clear and modular code.
 
 ## Tools / Software Requirements
 
-- Visual Studio C++ or any standard C++ IDE such as:
-  - Code::Blocks
-  - CLion
-  - Visual Studio Code with a g++ compiler
-- GitHub for version control and submission.
-
-## Description
-
-Students will begin by revising version control concepts using GitHub, followed by a series of C++ programming tasks.
-
-Each task emphasizes:
-
-- Correct coding style
-- Modularity
-- Testing
-- Problem-solving
-- Version control using Git and GitHub
-
-Students will commit their solutions to GitHub and submit their completed work on the LMS in Word format.
+- C++ Compiler
+- Visual Studio Code, Code::Blocks, CLion, or Visual Studio
+- Git and GitHub
 
 ## Tasks
 
-The repository contains the following tasks:
+- Task 1 — Basic C++ Programming
+- Task 2 — Arrays
+- Task 3 — Searching and Sorting
+- Task 4 — Linked Lists
+- Task 5 — Stacks and Queues
+- Task 6 — Trees
+- Task 7 — Graphs
 
-- **Task 3** — C++ programming and test cases
-- **Task 4** — String Pattern Matching
-- **Task 5** — C++ programming and test cases
-- **Task 6** — C++ programming and test cases
-- **Task 7** — Strassen's Matrix Multiplication
+## Description
+
+Each task focuses on implementing and understanding a specific Data Structures and Algorithms concept. The solutions are written in C++ and organized into separate files or folders.
 
 ## Version Control
 
-Git and GitHub are used to manage and submit the source code for each task.
+Git and GitHub are used to manage the source code and track changes throughout the lab.
 
-Each task is organized into its own folder containing the relevant C++ source code and test files.
+## Submission
+
+All completed programs are maintained in this repository and submitted according to the course requirements.
